@@ -1,0 +1,56 @@
+/* COMENTARIO */
+
+body{
+    background-color: #ffffff;
+}
+header{
+    background-color: #000000;
+    color: #ffffff;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+    text-align: center;
+    text-transform:uppercase;
+    font-size: 24px;
+    letter-spacing: 3px;
+}
+
+aside{
+    background-color: #000000;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#pagreceitas{
+        color: #ffffff;
+        text-align: center;
+        letter-spacing: 30px;
+        font-size: 42px;
+        text-transform:uppercase;
+}
+
+#pagcontato{
+        color: #000000;
+        text-align: center;
+        letter-spacing: 30px;
+        font-size: 42px;
+        text-transform:uppercase;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#paginformacoes{
+        color: #000000;
+        text-align: center;
+        letter-spacing: 30px;
+        font-size: 42px;
+        text-transform:uppercase;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.linkbutt{
+    text-transform:uppercase;
+    border: solid 2px #ffffff;
+    color: #ffffff;
+    background-color: #000000;
+    text-align: center;
+    font-size: 16px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
